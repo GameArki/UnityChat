@@ -1,7 +1,9 @@
 {
     "name": "UnityChat",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:17b36165d09634a48bf5a0e4bb27f4bd"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
